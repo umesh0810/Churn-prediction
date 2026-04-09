@@ -45,6 +45,11 @@ The dataset includes customer-related information such as:
 * `notebooks/` → Google Colab notebooks
 * `models/` → Saved models
 
+## ▶️ Run on Google Colab
+
+[Click here to open the notebook](https://colab.research.google.com/drive/1NP3mUrUIkzhzJPy-L3zEaX73cOcHuKUM?authuser=1)
+
+
 ## 🙌 Author
 
 Umesh Devkate
