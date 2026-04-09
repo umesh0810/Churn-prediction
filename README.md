@@ -1,2 +1,1 @@
-# Churn-prediction
-This repo include my First project of MACHINE LEARNING
+Customer churn prediction using machine learning techniques to identify users likely to leave a service.
