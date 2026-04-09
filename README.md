@@ -1,13 +1,11 @@
 # Customer Churn Prediction
 
-##  Project Overview
+## 📌 Project Overview
 
 This project aims to predict customer churn using machine learning techniques.
 Customer churn refers to customers who stop using a service.
 
----
-
-##  Dataset
+## 📊 Dataset
 
 The dataset includes customer-related information such as:
 
@@ -15,8 +13,6 @@ The dataset includes customer-related information such as:
 * Usage behavior
 * Subscription details
 * Payment history
-
----
 
 ## ⚙️ Technologies Used
 
@@ -26,42 +22,29 @@ The dataset includes customer-related information such as:
 * Scikit-learn
 * Matplotlib / Seaborn
 
----
-
 ## 🤖 Machine Learning Models
 
 * Logistic Regression
 * Decision Tree
 * Random Forest
 
----
-
-##  Results
+## 📈 Results
 
 * Built a predictive model for churn classification
 * Identified key factors affecting customer retention
 
----
-
-##  How to Run
+## 🚀 How to Run
 
 1. Clone the repository
 2. Install required libraries
-3. Run the google colab Notebook
+3. Run the Google Colab notebook
 
----
-
-##  Project Structure
+## 📂 Project Structure
 
 * `data/` → Dataset
-* `notebooks/` → google colab notebooks
+* `notebooks/` → Google Colab notebooks
 * `models/` → Saved models
 
----
-
-##  Author
+## 🙌 Author
 
 Umesh Devkate
-
-
-
